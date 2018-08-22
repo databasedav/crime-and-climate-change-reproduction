@@ -1,0 +1,9 @@
+name: cccr # climate change and crime reproduction
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - ipyparallel
+  - pip:
+    - geopy
+  
